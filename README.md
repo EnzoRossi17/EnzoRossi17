@@ -5,7 +5,7 @@ I'm Enzo Rossi, a junior Full Stack developer. I'm open to business, work, ideas
 <br>
 
 <p><b>Connect with me:</b></p>
-<a href="mailto:enzomaumessorossi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
+<a href="mailto:enzomaumessorossi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/></a>
 <br>
 <br>
 <p><b>Languages and Tools:</b>
